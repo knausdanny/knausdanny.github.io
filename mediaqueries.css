@@ -50,6 +50,11 @@
     .about-pic {
         justify-content: center;
     }
+
+    .img-container {
+      height: auto;
+    }
+
   }
   
   @media screen and (max-width: 600px) {
@@ -107,5 +112,8 @@
     }
     .about-pic {
         justify-content: center;
+    }
+    .img-container {
+      height: auto;
     }
   }
