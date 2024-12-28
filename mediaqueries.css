@@ -41,9 +41,14 @@
       width: 275px;
       height: 275px;
       margin: 0 auto 2rem;
+      justify-content: center;
+
     }
     .about-containers {
       margin-top: 0;
+    }
+    .about-pic {
+        justify-content: center;
     }
   }
   
@@ -99,5 +104,8 @@
     }
     .text-container {
       text-align: justify;
+    }
+    .about-pic {
+        justify-content: center;
     }
   }
