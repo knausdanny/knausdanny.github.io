@@ -32,13 +32,13 @@ a,
 nav,
 .nav-links {
   display: flex;
+  background-color: rgb(141, 73, 58);
 }
 
 nav {
   justify-content: space-around;
   align-items: center;
   height: 17vh;
-  width: 100%;
   background-color: rgb(141, 73, 58);
 }
 
